@@ -32,11 +32,11 @@ This project focuses on identifying churn trends and high-value customer segment
 
 ## 📊 Sample Visuals
 
-![Visuals1](https://raw.githubusercontent.com/harshkumar087/customer-subscription/blob/main/Sheet%201-2.png)
+![Visuals1](https://raw.githubusercontent.com/harshkumar087/customer-subscription/main/Sheet%201-2.png)
 
-![Visuals2](https://raw.githubusercontent.com/harshkumar087/customer-subscription/blob/main/Sheet%202.png)
+![Visuals2](https://raw.githubusercontent.com/harshkumar087/customer-subscription/main/Sheet%202.png)
 
-![Visuals3](https://raw.githubusercontent.com/harshkumar087/customer-subscription/blob/main/Dashboard%201.png)
+![Visuals3](https://raw.githubusercontent.com/harshkumar087/customer-subscription/main/Dashboard%201.png)
 
 ## 🚀 Features
 
